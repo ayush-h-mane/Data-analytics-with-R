@@ -1,2 +1,0 @@
-# ayush
-R Programming
